@@ -21,12 +21,13 @@ from sklearn.preprocessing import StandardScaler
 
 st.set_page_config(
     page_title='model-lab',
-    layout ='wide'
+    layout = 'wide'
 )
 apply_styles()
 
 st.title('model-lab 🔥')
 st.write('Train, compare, and experiment with machine-learning models.')
+
 
 wine = load_wine(as_frame = True)
 X = wine.data
@@ -119,7 +120,7 @@ predictions = model.predict(X_test)
 accuracy = accuracy_score(y_test, predictions)
 
 precision = precision_score(y_test, predictions, average='weighted', zero_division=0)
-
+#la recall si f1 mereu z_d=0!!!
 recall = recall_score(y_test, predictions, average='weighted', zero_division=0)
 
 f1 = f1_score(y_test, predictions, average='weighted', zero_division=0)
@@ -202,5 +203,5 @@ st.download_button(
 )
 
 st.caption(
-    "ModelLab • Built with Python, Streamlit, and scikit-learn"
+    "model-lab • Built with Python, Streamlit, and scikit-learn"
 )
