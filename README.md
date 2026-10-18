@@ -10,7 +10,7 @@ You have acces to interactive hyperparameters, evaluation metrics(f1_score, prec
 
 model-lab uses the built-in sklearn dataset wine. it has 178 samples, 13 columns, and 3 wine classes
 
-# ow to run it localy:
+# How to run it localy:
 
 ## Step 1:
 Clone the repository:
