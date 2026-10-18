@@ -1,6 +1,8 @@
 # ModelLab
-**[Launch model-lab](https://model-lab-qgmhwjy6adtjgp5pnrb3dk.streamlit.app/)**
-**A tool tha experiments with machine learning models in your browser!**
+**[launch model-lab demo](https://model-lab-qgmhwjy6adtjgp5pnrb3dk.streamlit.app/)**
+
+
+**A tool that experiments with machine learning models in your browser!**
 
 model-lab is a tool to get people to understand how machine-learning models work by visualizing their processes and resaults through interactive, schematic representations.
 
