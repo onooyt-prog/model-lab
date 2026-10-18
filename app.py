@@ -1,3 +1,4 @@
+from styling import apply_styles
 import pandas as pd
 import matplotlib.pyplot as plt
 import streamlit as st
@@ -23,6 +24,7 @@ st.set_page_config(
     page_icon = '🧪',
     layout ='wide'
 )
+apply_styles()
 
 st.title('🧪 ModelLab')
 st.write('Train, compare, and experiment with machine-learning models.')
