@@ -16,7 +16,7 @@ def apply_styles():
 
         .stButton > button{
             background: #39ff14;
-            color: #000;
+            color:#000;
         }
 
         .stButton > button:hover{
