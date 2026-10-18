@@ -21,12 +21,11 @@ from sklearn.preprocessing import StandardScaler
 
 st.set_page_config(
     page_title='model-lab',
-    page_icon = '🧪',
     layout ='wide'
 )
 apply_styles()
 
-st.title('🧪 ModelLab')
+st.title('model-lab 🔥')
 st.write('Train, compare, and experiment with machine-learning models.')
 
 wine = load_wine(as_frame = True)
