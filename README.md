@@ -1,5 +1,5 @@
 # ModelLab
-**[launch model-lab demo](https://model-lab-qgmhwjy6adtjgp5pnrb3dk.streamlit.app/)**
+**[launch model-lab demo](https://model-lab.onrender.com/)**
 
 
 **A tool that experiments with machine learning models in your browser!**
