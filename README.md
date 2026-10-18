@@ -1,4 +1,4 @@
-#ModelLab
+# ModelLab
 **[Launch model-lab](https://model-lab-qgmhwjy6adtjgp5pnrb3dk.streamlit.app/)**
 **A tool tha experiments with machine learning models in your browser!**
 
@@ -10,15 +10,15 @@ You have acces to interactive hyperparameters, evaluation metrics(f1_score, prec
 
 model-lab uses the built-in sklearn dataset wine. it has 178 samples, 13 columns, and 3 wine classes
 
-#How to run it localy:
+# ow to run it localy:
 
-##Step 1:
+## Step 1:
 Clone the repository:
 ```bash
 git clone https://github.com/onooyt-prog/model-lab.git
 cd model-lab
 ```
-##Step 2:
+## Step 2:
 Create and activate a virtual envioroment:
 
 ```bash
@@ -33,7 +33,7 @@ source .venv/bin/activate
 ```
 **(Linux)**
 
-##Step 3:
+## Step 3:
 
 Install dependecies and start the application
 ```bash
