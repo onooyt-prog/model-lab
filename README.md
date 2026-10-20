@@ -1,5 +1,5 @@
 # ModelLab
-**[launch model-lab demo](https://model-lab.onrender.com/)**
+**[launch model-lab demo](https://apparent-discrete-gravity-late.trycloudflare.com/)**
 
 
 **A tool that experiments with machine learning models in your browser!**
